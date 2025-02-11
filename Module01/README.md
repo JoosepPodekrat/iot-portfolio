@@ -15,7 +15,7 @@ Module description
 - Inspiration 2
 
 ## Task Personal Profile
-
+Have built some simple systems like a stoplight on a raspberry pi before, taken apart and put together a couple PCs, was part of a robotics class 10 years ago. Other than that not much experience dealing with network protocols or building machines from the ground up. I can follow instructions and probably guess what we're roughly supposed to be doing, and if that doesn't work there's always documentation.
 ## Task What is IoT
 
 Domains and included areas:
