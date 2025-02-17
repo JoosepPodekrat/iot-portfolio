@@ -1,14 +1,4 @@
 # Module 1
-
-
-> When you start editing this file, remove this description.
->
-> Usually the first things you have to document are some inspirations hinting at what
-> you might be able to build in this class, a personal profile description regarding
-> programming expertise, previous MCU knowledge, creative qualities, and expectations
-
-Module description
-
 ## Task Inspirations
 
 I've always wanted to make a wifi extender for my parents' place, since the soviet era apartment has awfully thick walls and in some spots of certain rooms you get 0 coverage. I have a couple old routers laying around in a box, but never figured out how to use them for the purpose. Ideally i'd know how to do that after this class.
