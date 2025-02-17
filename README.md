@@ -2,17 +2,10 @@
 
 > Start with module 1: have a small log (keywords are fine, we appreciate sentences, but can read keywords quicker as you usually have to present your tasks to an instructor this is more a help for yourself than for us) and pictures from class and lab tasks in here. 
 > Any code goes into git repo (needs to be linked in portfolio). If you use example codes without changes, you can also link to it.
->
-> Resources:
-> - A nice markdown cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-> - The beginner's guide to git & github: https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/
-> - Slightly longer git-intro tutorial video: https://youtu.be/8Dd7KRpKeaE
-> - If you want to take a class on git and even potentially get certified:
->   https://education.github.com/experiences/foundations_certificate
 
 Author: Joosep Podekrat
 
-My partner is Artur Tamm, [portfolio link](https://github.com/libakoer/IoT)]
+My partner is Artur Tamm, [portfolio link](https://github.com/libakoer/IoT)
 
 In my team for the final project, I also had the following members:
 - <replace these pointy brackets with their full name>, [portfolio link](https://github.com/partner/iot-portfolio)
