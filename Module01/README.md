@@ -46,7 +46,7 @@ Challenges:
 - Battery powered devices need to be extremely energy efficient to not need constant maintenance.
 
 ## Reflection 1
-[Reflection 1](Reflections/ref01.md) //something is wrong with this link
+[Reflection 1](/Reflections/ref01.md)
 
 ![image](https://github.com/user-attachments/assets/637d904d-b1df-4ab7-b8ad-9aee0cde3bc0)
 
