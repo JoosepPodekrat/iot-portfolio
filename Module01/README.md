@@ -11,7 +11,7 @@ Module description
 
 ## Task Inspirations
 
-- Inspiration 1
+I've always wanted to make a wifi extender for my parents' place, since the soviet era apartment has awfully thick walls and in some spots of certain rooms you get 0 coverage. I have a couple old routers laying around in a box, but never figured out how to use them for the purpose. Ideally i'd know how to do that after this class.
 - Inspiration 2
 
 ## Task Personal Profile
@@ -19,20 +19,26 @@ Have built some simple systems like a stoplight on a raspberry pi before, taken 
 ## Task What is IoT
 
 Domains and included areas:
-
--
--
-
+Consumer, Commercial:
+  - Wearable products.
+  - Smart Home Applications.
+Infrastructure:
+  - Smart Cities.
+  - Health Care.
+Industrial:
+  - Agriculture and breeding.
+  - Industrial Automation.
 
 Commonly used (data) protocols:
-
--
--
+- Message Queue Telemetry Transport - Brokers and clients, where brokers share info and clients recieve it
+- HyperText Transfer Protocol - Two systems talking to eachother at one time
+- Constrained Application Protocol  - Modified HTTP protocol for limited bandwidth or reliability situations
 
 Typical devices (appliance or micro controller):
 
--
--
+- ESP32 and ESP8266 for cheaper variants
+- Raspberyy Pis for more complex projects with a bigger budget
+- Arduino boards for the middle ground
 
 Challenges:
 
