@@ -12,7 +12,7 @@
 
 Author: Joosep Podekrat
 
-My partner is Artur Tamm, [portfolio link](https://github.com/partner/iot-portfolio)](https://github.com/libakoer/IoT)
+My partner is Artur Tamm, [portfolio link](https://github.com/libakoer/IoT)]
 
 In my team for the final project, I also had the following members:
 - <replace these pointy brackets with their full name>, [portfolio link](https://github.com/partner/iot-portfolio)
