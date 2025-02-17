@@ -42,8 +42,8 @@ Typical devices (appliance or micro controller):
 
 Challenges:
 
--
--
+- The devices are more vulnerable to hacking, because they're usually in more accessible places like outside of buildings, can be entry points for infecting other machinery.
+- Battery powered devices need to be extremely energy efficient to not need constant maintenance.
 
 ## Reflection 1
-[Reflection 1](Reflections/ref01.md)
+[Reflection 1](Reflections/ref01.md) //something is wrong with this link
