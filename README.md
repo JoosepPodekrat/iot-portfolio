@@ -1,12 +1,9 @@
 # Personal Portfolio for the IoT class at University of tartu
 
-> Start with module 1: have a small log (keywords are fine, we appreciate sentences, but can read keywords quicker as you usually have to present your tasks to an instructor this is more a help for yourself than for us) and pictures from class and lab tasks in here. 
-> Any code goes into git repo (needs to be linked in portfolio). If you use example codes without changes, you can also link to it.
-
 Author: Joosep Podekrat
 
 My partner is Artur Tamm, [portfolio link](https://github.com/libakoer/IoT)
-
+//todo below
 In my team for the final project, I also had the following members:
 - <replace these pointy brackets with their full name>, [portfolio link](https://github.com/partner/iot-portfolio)
 - <replace these pointy brackets with their full name>, [portfolio link](https://github.com/partner/iot-portfolio)
