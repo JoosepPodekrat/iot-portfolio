@@ -76,7 +76,8 @@ We wired the touch sensor on the breadboard, ran this code and then got it worki
 ![image](https://github.com/user-attachments/assets/50ad6e7a-049c-42f9-9cda-4c6f640c47b6)
 ## Bomb defusal
 Tried building the bomb defusal circuit, got stuck not knowing how to power the LED strip. Asked both partner and teacher for help, turns out we were missing the charger so couldn't finish building it. I think the rest of the circuit was fine, used the blueprint from the class.
-It is [here](https://github.com/partner/iot-portfolio/Module02/Readme.md#task-2).
+
+Partner's entry https://github.com/libakoer/IoT/tree/main/Module02
 
 ## Reflection 2
 Do in the mornin
