@@ -1,6 +1,25 @@
 # Module 2
+Equipment we got
+- 7 125mm insulated jumper wire - various colors
+- 1 250mm insulated jumper wire - red
+- 3x 330ohm resistor
+- 1 red led
+- 1 yellow led
+- 1 white led
+- 1 FL-3FF-S-Z relay 
+- 1 100uF 25V Electrolytic Capacitor
+- 1 ESP-8266-12F chip
+- 0 charging cables for the bomb
+- 1 M5 stick
+- 1 usb to usb-c charging cable
+- 1 acdc adapter 
+- 1 chinese LED strip where 3 leds work as 1
+- 1 mystery chip in a sealed bag that has no writing on it
+- 1 65x14 breadboard
+- 1 mystery metal cube with wires poking out
+- 1 MH-KC24 4-Channel DC-DC Buck Converter in a green IOT case
+- 2 buttons for the breadboard
 
-We are going to show here notes for Task 1, 2, 3, 4, and 5 to prove
 
 ## Fading LED
 Wiring itself was pretty easy, the code worked 1 for 1 from an example on how PWD works, just had to swap in the correct pin number we wired it to.
