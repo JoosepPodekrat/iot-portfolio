@@ -20,6 +20,16 @@ Equipment we got
 - 1 MH-KC24 4-Channel DC-DC Buck Converter in a green IOT case
 - 2 buttons for the breadboard
 
+##Notes from 3rd week  - data buses
+Data protocols/wires
+protocol,  properties, use cases
+1wire - 2wires, 16.3 kbit/s, 100-300m in twisted pairs/bridge chips, thermostats, simple sensors simple keys
+rs232 - 9/25 wires min transmit recieve ground (3wires),  2Mbit/s (usually way less) -15 to 3-15 volts,
+rs485 - 10Mbits, 1200m (bit/s * m =< 10"8) immune to noise -7 to 12 volts, used in airplanes and light systems / probably most used bus in the industry only second to conbus
+conbus - ... 1 to 5 Mbit/s 40m to 10km at lower speeds ,used in everything connects electronic control units, error correction and detection, priority based relatively expensive bus as common as rs485
+I2C/I3C - 100kbit to 3.4Mbit/s 3-4m up to 128 devices | I3C 100kbit to 20mbit a couple meters,slave and master connected with 2 wires, data and clock(helps different slaves sample master at the same time)
+SPI - 100mbit/s up to 10m, suppoerts serial synchronous and full duplex comms, iot things like card readers and sensors cheap and fast 
+
 
 ## Fading LED
 Wiring itself was pretty easy, the code worked 1 for 1 from an example on how PWD works, just had to swap in the correct pin number we wired it to.
