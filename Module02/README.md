@@ -81,6 +81,11 @@ void loop() {
 }
 ```
 
+## Bomb defusal game
+Couldn't get it working, here's the wiring attempt:
+![IMG_20250311_003102](https://github.com/user-attachments/assets/0e285739-910a-4b35-a2ab-ceac0918a846)
+
+
 ## Touch sensor
 We wired the touch sensor on the breadboard, ran this code and then got it working. Couldn't figure out what the numbers meant for a while but it's actually which of the pins on the chip was being touched at the time, our fingers were just too big so they were always touching one of the pins while trying to touch the chip we thought was the sensor.
 ![image](https://github.com/user-attachments/assets/50ad6e7a-049c-42f9-9cda-4c6f640c47b6)
