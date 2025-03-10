@@ -89,9 +89,6 @@ Tried building the bomb defusal circuit, got stuck not knowing how to power the 
 
 Partner's entry https://github.com/libakoer/IoT/tree/main/Module02
 
-## Reflection 2
-Do in the mornin
-[Reflection 2](/Reflections/ref02.md)
 
 ## Reflection 3
 [Reflection 3](/Reflections/ref03.md)
