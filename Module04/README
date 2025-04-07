@@ -284,8 +284,3 @@ void loop() {
 
   delay(5000);
 
-
-
-```cpp
-test
-cpp```
