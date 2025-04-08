@@ -4,7 +4,7 @@ Sends MQTT messages to the broker, reports the temperature.
 Opens and closes the lock from terminal
 
 
-I then used Node-Red and changed the code around a bit to talk to eachother through the MQTT broker instead.(See [Temperature module for AC](ACTempModule.cpp) and [The code I used before to test functionality](TempModule.cpp) to see changes in temperature sensor.)
+I then used Node-Red and changed the code around a bit to talk to eachother through the MQTT broker instead.(See [Temperature module for AC](ACTempModule.cpp) and [The code I used before to test functionality](TempModuleLocal.cpp) to see changes in temperature sensor.)
 -
 ![image](https://github.com/user-attachments/assets/e58b3187-4930-4696-af3a-b884ca318247)
 After i tested if that worked, i moved on to plotting it all on to a chart.
