@@ -9,7 +9,7 @@ Using node-red has been extremly easy and consistent for our group so far, it re
 IOTEmpower with it's OTA flashing and oneliners has been very useful the times we have got it to work, but it's definetly doable with just platformio as well.
 # Integration
 Neither of us have much experience with IOTKnit but it seems like a decent alternative to node-red, but both of us prefer node-red over it so far.
-
+# Miniproject 1
 - Important commands
  - mqtt_broker - starts mqtt
  - mqtt_listen  - looks for all mqtt posts on the broker
@@ -17,4 +17,4 @@ Neither of us have much experience with IOTKnit but it seems like a decent alter
  - iot menu - opens graphical menu for the system
  - adopt - flashing using a dongle
  - iot doc serve - shows the documentation locally
-  
+# Miniproject 2
