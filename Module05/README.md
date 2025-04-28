@@ -18,8 +18,15 @@ Neither of us have much experience with IOTKnit but it seems like a decent alter
  - adopt - flashing using a dongle
  - iot doc serve - shows the documentation locally
 # Miniproject 2 First node
+Updated IOTEmpower and followed 
+![image](https://github.com/user-attachments/assets/30a9cf24-95da-4e55-81f1-1ed4323ad60f)
 
 # Miniproject 3 Second node
+![image](https://github.com/user-attachments/assets/c11e4d70-b68b-402a-b5ae-415be93b2606)
+
+Inside the Toggle:
+![image](https://github.com/user-attachments/assets/c18b8cfc-9553-40e5-87de-e70906ccdf54)
+
 
 # Access control system
 
