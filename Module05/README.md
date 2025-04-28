@@ -20,12 +20,12 @@ Neither of us have much experience with IOTKnit but it seems like a decent alter
 # Miniproject 2 First node
 Updated IOTEmpower and followed 
 ![image](https://github.com/user-attachments/assets/30a9cf24-95da-4e55-81f1-1ed4323ad60f)
-also flashed the second button controller for 2nd node miniproject through serial, couldn't get the ota flashing working without deploying through a serial first. The guides keep saying to use a dongle but I don't think we were provided one. (in hindsight this would make sense, because the documentation says "To reconfigure wifi of a previously used IoTempower node (if the node never has been flashed with IoTempower before, use deploy serial to flash it), make sure you have a flash button connected (usually D3 or pin 0 against ground), a small display shield often has butons too and might even be used to show something status information during adoption.")
+also flashed the second button controller for 2nd node miniproject through serial, couldn't get the ota flashing working without deploying through a serial first. The guides keep saying to use a dongle but I don't think we were provided one. (in hindsight this would make sense, because the documentation says "To reconfigure wifi of a previously used IoTempower node (if the node never has been flashed with IoTempower before, use deploy serial to flash it)...")
 ![image](https://github.com/user-attachments/assets/bb5e88c5-63fb-4577-bac6-2152be396a06)
 
 
 # Miniproject 3 Second node - 2 buttons controlling 1 light
-Note that we didn't have a single button to use, so the node-red code is purely theoretical and while the cpp code deploys properly i couldn't actually test it with a physical button. But the code was given
+Note that we didn't have a single button to use, so the node-red code is purely theoretical and while the cpp code deploys properly i couldn't actually test it with a physical button. (Tested if the reset button of various models could be used to replace, didn't seem to work) But the code was given so i doubt the validity of it needs to be tested.
 ![image](https://github.com/user-attachments/assets/c11e4d70-b68b-402a-b5ae-415be93b2606)
 
 While having all the documents, local web pages and node-red running the iot laptop seems to have run out of memory.
