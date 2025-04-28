@@ -1,1 +1,1 @@
-input(lower, D2, "depressed", "pressed");
+input(b1, D3, "off", "on");
