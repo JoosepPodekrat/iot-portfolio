@@ -9,7 +9,7 @@ Using node-red has been extremly easy and consistent for our group so far, it re
 IOTEmpower with it's OTA flashing and oneliners has been very useful the times we have got it to work, but it's definetly doable with just platformio as well.
 # Integration
 Neither of us have much experience with IOTKnit but it seems like a decent alternative to node-red, but both of us prefer node-red over it so far.
-# Miniproject 1
+# Miniproject 1 
 - Important commands
  - mqtt_broker - starts mqtt
  - mqtt_listen  - looks for all mqtt posts on the broker
@@ -17,4 +17,15 @@ Neither of us have much experience with IOTKnit but it seems like a decent alter
  - iot menu - opens graphical menu for the system
  - adopt - flashing using a dongle
  - iot doc serve - shows the documentation locally
-# Miniproject 2
+# Miniproject 2 First node
+
+# Miniproject 3 Second node
+
+# Access control system
+
+# Liquid measuring project for suitability in use on a boat
+- Scale - The scale we used could handle up to about 500g of weight on it, but it was accurate in weighing up to that point. Calibrated using tiny weights to make sure. Needs a stable base to give accurate readings, so a rocking boat would not suit it well.
+- Ultrasonic Distance sensor - Not sure if it's inherent to the sensor we used or if our code was faulty, but when tracking the distance of objects moving fast enough, the readings would get wildly inaccurate, usually thinking the object was comically far away, despite moving about 20 cm away. As long as the object itself is close to stationary the accuracy is very good, up to half a centimeter differences can be detected. We solved this by averaging about 5 readings for any one that was shown on the dashboard. Would be fine in using in a boat, but the readings would be relatively inaccurate on their own assuming there were waves. 
+- Soil moisture Capacitive - Looked in to the sensor on this subtask. The ones we were given are very low quality, missing a capacitor (it's just bridged through) and likely missing a built in resistor (can't test myself but other boards with the previous issue have this problem very commonly). It uses a m555 chip, which tends to have both of these issues. I have included an image showing off the problems in  the images tab.
+Despite that, assuming you have a good quality chip, (following the reccomendations from this video https://youtu.be/IGP38bz-K48?si=9fgruOmTIOg0KAjY) this sensor is far more resistant to corrosion compared to the other moisture sensor. 
+- Water Digital Capacitive - These sensors corrode extremely quickly when powered on for extended periods of time, to fix this we only powered on the sensor every 5 seconds and only for the stabilization of the reading and then the reading itself. We averaged the readings locally and then sent to the dashboard as well, due to the varying nature of the readings. The sensor itself is meant to be submerged in water, but the chip and wiring are exposed, while being only a couple cm above the expected water level. The sensor was at the very least very consistent in the water level readings. This one would detect the presence of oil, but would need the code modified and likely a second sensor to help with identifying if the capacitivity has changed due to less water or the influx of oil on the sensor. Needs the electronics coated to not short circuit constantly.
