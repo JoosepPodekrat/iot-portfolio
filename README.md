@@ -15,8 +15,10 @@ My personal profile and expectations, you can find [here](Module01/README.md#tas
 ## Table of Contents
 
 - [Module 1: IoT Introduction](Module01/README.md), 
-  [Reflection 1](Reflections/ref01.md)
 - [Module 2: Hardware and Basic Electronics](Module02/README.md),
-  [Reflection 2](Reflections/ref02.md), [Reflection 3](Reflections/ref03.md)
+- [Module 3: Building an Intranet](Module03/README.md)
+- [Module 4: Integrating Automation](Module04/README.md)
+- [Module 5: Scaleablity with Iotempower](Module05/README.md)
+- [Module 6: Final Project - MITS room automation](Module06/README.md)
 - ...
 
